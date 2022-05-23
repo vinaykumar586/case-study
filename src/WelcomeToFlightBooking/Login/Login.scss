@@ -1,0 +1,60 @@
+.modal {
+  display: block;
+  position: relative;
+  width: 50vh;
+  background: #feac5e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #4bc0c8,
+    #c779d0,
+    #feac5e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4bc0c8,
+    #c779d0,
+    #feac5e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  height: 50vh;
+  left: 40%;
+  top: 6rem;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.label-pass {
+  font-weight: 600;
+  margin-right: 6rem;
+}
+.label-name {
+  font-weight: 600;
+  margin-right: 8.5rem;
+}
+
+.login-button {
+  height: 6vh;
+  width: 15vh;
+  margin-right: 5px;
+  border-radius: 18px;
+  cursor: pointer;
+}
+.btn-sub {
+  font-size: larger;
+  font-family: fangsong;
+  font-weight: 800;
+  display: inline;
+  justify-content: space-around;
+}
+.login-cancel {
+  height: 6vh;
+  width: 16vh;
+  border-radius: 19px;
+  cursor: pointer;
+}
+.login-page {
+  display: flex;
+  flex-direction: column;
+}

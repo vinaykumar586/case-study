@@ -1,0 +1,20 @@
+.rlist-airlines {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  /* padding: 5px; */
+  height: 15vh;
+  margin: 0 10px 10px;
+  border-radius: 2px;
+}
+.rairlines {
+  border-right: 2px solid;
+  width: 30rem;
+}
+.rbook {
+  height: 6vh;
+  width: 22vh;
+  margin: 1rem;
+  border: none;
+  background: #28abf7;
+}

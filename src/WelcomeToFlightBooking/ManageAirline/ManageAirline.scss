@@ -1,0 +1,49 @@
+.manage-airlines {
+  height: 100%;
+}
+.list-title {
+  position: relative;
+  text-align: center;
+  top: 30px;
+}
+.list-airlines {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  /* padding: 5px; */
+  border: 1px solid #f3aeae;
+  height: 15vh;
+  margin: 0 10px 10px;
+  box-shadow: 0 0 10px 0;
+  border-radius: 2px;
+}
+.add-airline {
+  position: absolute;
+  font-family: fangsong;
+  font-weight: 900;
+  cursor: pointer;
+  right: 0;
+  top: 8rem;
+  border: none;
+  height: 6vh;
+  width: 20vh;
+  margin-right: 12px;
+  background: #759fd5;
+  border-radius: 15px;
+  color: white;
+  font-weight: 900;
+  z-index: 9;
+}
+.airlines {
+  position: relative;
+  top: 20px;
+}
+.btn-block {
+  width: 14vh;
+  height: 5vh;
+  margin-top: 30px;
+  border: none;
+  cursor: pointer;
+  background-color: #95e795;
+  border-radius: 10px;
+}

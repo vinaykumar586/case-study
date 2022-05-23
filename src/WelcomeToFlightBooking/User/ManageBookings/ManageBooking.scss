@@ -1,0 +1,48 @@
+.btn-view {
+  background-color: #5392f9;
+  height: 6vh;
+  width: 15vh;
+  border: none;
+  cursor: pointer;
+}
+.btn-cancel {
+  background-color: #c0cbcc;
+  height: 6vh;
+  width: 15vh;
+  border: none;
+  cursor: pointer;
+  margin-left: 30px;
+}
+.ticket-search-btn {
+  height: 6vh;
+  width: 30vh;
+  border-radius: 1.5rem;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(133, 186, 216),
+    rgb(42, 184, 228)
+  );
+  cursor: pointer;
+}
+.searchby {
+  width: 20%;
+}
+.search-value {
+  // width: 40%;
+  padding-right: 10rem;
+}
+.search-ticket {
+  display: flex;
+  justify-content: center;
+  padding-top: 22px;
+}
+.search-box {
+  height: 15vh;
+  margin: 4vh;
+  box-shadow: 0px 0px 10px;
+  background-color: #7b7b7b;
+  border-bottom: 2px solid hsl(0deg 0% 80%);
+}
+.align-content {
+  margin-top: 1rem;
+}

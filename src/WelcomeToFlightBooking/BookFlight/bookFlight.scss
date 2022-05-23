@@ -1,0 +1,46 @@
+.flight-option {
+  position: relative;
+  top: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+.way-select {
+  margin: 4px;
+}
+.search-btn {
+  position: relative;
+  right: 22px;
+  top: 0.4rem;
+}
+.btn-s {
+  width: 10rem;
+  height: 2rem;
+  background-color: #5392f9;
+  border: none;
+  cursor: pointer;
+}
+.book-flight {
+  height: 100vh;
+}
+.top-book {
+  height: 32%;
+  position: fixed;
+  width: 100%;
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(
+    0.25turn,
+    rgba(255, 249, 34),
+    rgba(255, 0, 128),
+    rgba(56, 2, 155, 0)
+  );
+  border-image-slice: 1;
+  width: 100%;
+}
+.flight-content {
+  padding: sticky;
+  position: fixed;
+  width: 100%;
+  top: 13rem;
+  height: 68%;
+  overflow: scroll;
+}

@@ -1,0 +1,71 @@
+.airline-modal {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 30%;
+  z-index: 1;
+  background-color: #efefef;
+  // background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+  box-shadow: 0 0 10px 0 #fffffff6;
+  width: 40%;
+  top: 2rem;
+}
+// form {
+//   display: contents;
+// }
+input {
+  padding: 5px 10px;
+  margin: 5px;
+}
+.select-multi {
+  width: 34vh;
+  float: right;
+  margin-right: 11vh;
+}
+.airline-label {
+  display: inline-block;
+  width: 150px;
+  color: #160707;
+  margin-left: 5rem;
+}
+.add-title {
+  text-align: center;
+}
+.btn-add {
+  margin-right: 0.8rem;
+  width: 12vh;
+  height: 6vh;
+  border: none;
+  background-color: #007bffd1;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+.bt-cancel {
+  height: 6vh;
+  width: 15vh;
+  border: none;
+  cursor: pointer;
+  margin-left: 30px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 900;
+  background: #6e6464;
+}
+.submit-airline {
+  margin: 15px 0;
+  position: relative;
+  left: 15rem;
+}
+.login-center {
+  padding: 0 10vh 10vh 10vh;
+  background: #a597b3;
+  position: relative;
+  margin-top: 60px;
+}
+.meal-rule {
+  float: right;
+  margin-right: 14vh;
+  width: 31vh;
+}

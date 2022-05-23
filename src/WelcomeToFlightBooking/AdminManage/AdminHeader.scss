@@ -1,0 +1,18 @@
+.admin-log-btn {
+  border: none;
+  height: 5vh;
+  width: 18vh;
+  background: #84a8d9;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.admin-activites {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: relative;
+  top: 20px;
+}
+a {
+  text-decoration: none;
+}
