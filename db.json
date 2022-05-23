@@ -1,0 +1,270 @@
+{
+  "admin": {
+    "userName": "vinay586@gmail.com",
+    "password": "123456"
+  },
+  "airlines": [
+    {
+      "airlineName": "Emirates",
+      "flightNumber": "EMT324",
+      "airlineLogo": "https://logodix.com/logo/11456.png",
+      "from": "Chennai",
+      "to": "Banglore",
+      "startTime": "2022-04-16T23:46",
+      "endTime": "2022-04-17T02:44",
+      "meal": [
+        "veg",
+        "non-veg"
+      ],
+      "price": "30000",
+      "instrument": "A3260",
+      "block": false,
+      "id": 8,
+      "origin": "CHN",
+      "destination": "BLR"
+    },
+    {
+      "airlineName": "Indigo",
+      "flightNumber": "INDGO234",
+      "airlineLogo": "https://logodix.com/logo/347286.png",
+      "from": "Chennai",
+      "to": "Bengaluru",
+      "startTime": "2022-05-04T23:49",
+      "endTime": "2022-05-11T23:50",
+      "meal": [
+        "veg",
+        "non-veg"
+      ],
+      "price": "3000",
+      "instrument": "",
+      "block": false,
+      "id": 9
+    },
+    {
+      "airline_name": "Indi",
+      "flight_number": "2sw",
+      "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQoAAAC+CAMAAAD6ObEsAAAAkFBMVEX////XGiHVAAD43Nz32NnWABDVAAjWEBnXFR3ojpDWAA3VAAn1z9Dnh4r++PjWAADtqKnroaP98/PxwcLeUlbmg4XrnZ/ojY/iam321NXcPUL87u/76erqmJrYISj0y8zwuLrkenzZKjDbNTrfWFzcQkfvsLHhZGfbOT7tp6nicHPkfX/xvb/gZmndSEz54uJHakF1AAAGaElEQVR4nO2d4XKiSBCAm4ZhRlAUFY2CKEI0mlx4/7e77iHLmrrUha2r2y2gvx+uRWas8GWmp3uYbAAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRD6ROS5vwUv+tN3+i0e/ia8P32n3+Kh81sQFaJCVIgKUSEqRIWoEBWiQlSICkZUtIiKFlHRIipaREWLqGgRFS2iokVUtPwnFWbsKkzw8cZ/7u5ikCqM+uiDl0SNWwW6cOdxgW+vv9B3kCrm1Ks0Dh53v9J1kCpwCpAhnmAbfN942CqMQ92cHGDWPVIMToXRSmmaGp6bYDJqFWFeFPf7GdFDFUzGrAK36SalHidS4YxahZpBgfhGXdLVyFVgBpRc4oH6LJUZrwqjP1RQigk8R0arwjzflb7aUVHUBfXyR6vCCaLS+Pe79q+Zwi1AhaNV4cd039oJyIThOfLKKl5HqUJtD4pMrClg8m1FCavgCDJCFZMJrrHKwubg4akgFQt0ku4uBqUCUlg1HJcKd0fMd3brxkd/dCpaojPO3vCcUvQwZr7ILh0+Y1AqTj+6LM+4ifGFsgvHlE5GVzps7A1GhS6OiM9PluvcOHlAGdchpBv0LieA83hUaKO5AHlkDXBAfI8ig149ngmiixKP4E4fONZUlrnZYgfL4thhUAxFhUp2WH7V+YAbgEx3WVIHooJKMV+t//kLHQkGeIjnnR6GDEaFR2k33icPrAAuODlgEHYRMSAVOyo3FG",
+      "origin": "chn",
+      "destination": "del",
+      "start_time": "2022-05-28T02:06",
+      "end_time": "2022-05-29T02:06",
+      "meal": "veg,nonveg",
+      "price": "20000",
+      "block": false,
+      "id": 10
+    }
+  ],
+  "Coupons": [
+    "EASEFLY"
+  ],
+  "Reports": [
+    "No Reports Are Recorded"
+  ],
+  "flightBookingDetails": [
+    {
+      "passengerList": [
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        }
+      ],
+      "flightNumber": "EMT324",
+      "name": "",
+      "email": "",
+      "from": "Chennai",
+      "to": "Banglore",
+      "date": "2022-04-11T05:17:37.906Z",
+      "meal": "",
+      "numberOfSeats": "",
+      "price": "30000",
+      "id": 6
+    },
+    {
+      "passengerList": [
+        {
+          "name": "Gangadhar Vinaykumar",
+          "gender": "Male",
+          "age": "22"
+        },
+        {
+          "name": "Sangem Thirupathi",
+          "gender": "Male",
+          "age": "24"
+        }
+      ],
+      "flightNumber": "EMT324",
+      "name": "Gangadhar Vinaykumar",
+      "email": "vinaykumar.gangadhar586@gmail.com",
+      "from": "Chennai",
+      "to": "Banglore",
+      "date": "2022-04-11T08:09:50.488Z",
+      "meal": "",
+      "numberOfSeats": "",
+      "price": "30000",
+      "id": 7
+    },
+    {
+      "passengerList": [
+        {
+          "name": "charan",
+          "gender": "Male",
+          "age": "22"
+        },
+        {
+          "name": "sangi charn",
+          "gender": "Male",
+          "age": "22"
+        }
+      ],
+      "flightNumber": "EMT324",
+      "name": "charan",
+      "email": "charan@gmail.com",
+      "from": "Chennai",
+      "to": "Banglore",
+      "date": "2022-04-18T14:30:08.151Z",
+      "meal": "",
+      "numberOfSeats": "",
+      "price": "30000",
+      "id": 8
+    },
+    {
+      "passengerList": [
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        }
+      ],
+      "name": "",
+      "email": "",
+      "date": "2022-05-05T14:01:13.910Z",
+      "meal": "",
+      "numberOfSeats": "",
+      "price": 3421,
+      "id": 9
+    },
+    {
+      "passengerList": [
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        }
+      ],
+      "name": "",
+      "email": "",
+      "date": "2022-05-05T14:05:44.548Z",
+      "meal": "",
+      "numberOfSeats": "",
+      "price": 20000,
+      "id": 10
+    }
+  ],
+  "ticketDetails": [
+    {
+      "id": 1
+    },
+    {
+      "passengerList": [
+        {
+          "name": "charan",
+          "gender": "Male",
+          "age": "22"
+        },
+        {
+          "name": "sangi charn",
+          "gender": "Male",
+          "age": "22"
+        }
+      ],
+      "flightNumber": "EMT324",
+      "name": "charan",
+      "email": "charan@gmail.com",
+      "from": "Chennai",
+      "to": "Banglore",
+      "date": "2022-04-18T14:30:08.151Z",
+      "meal": "",
+      "numberOfSeats": 2,
+      "price": "30000",
+      "pnr": "vi98ov5wf",
+      "startTime": "2022-04-16T23:46",
+      "endTime": "2022-04-17T02:44",
+      "id": 2
+    },
+    {
+      "passengerList": [
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        }
+      ],
+      "name": "",
+      "email": "",
+      "date": "2022-05-05T14:01:13.910Z",
+      "meal": "",
+      "numberOfSeats": 1,
+      "price": 3421,
+      "pnr": "rpo88t3dn",
+      "id": 3
+    },
+    {
+      "passengerList": [
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        },
+        {
+          "name": "",
+          "gender": "",
+          "age": ""
+        }
+      ],
+      "name": "",
+      "email": "",
+      "date": "2022-05-05T14:05:44.548Z",
+      "meal": "",
+      "numberOfSeats": 5,
+      "price": 20000,
+      "pnr": "skovti0qg",
+      "id": 4
+    }
+  ]
+}
